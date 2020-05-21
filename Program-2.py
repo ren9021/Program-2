@@ -6,16 +6,7 @@
 #
 #  File Name:         ReneeWhite_Program2
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          09-13-2019
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter # 2
-#
-#  Description:
-#     This program calculates the average of 5 test scores.
+#  Description:       This program calculates the average of 5 test scores
 #
 #***************************************************************
 
@@ -58,7 +49,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  2')
     print()
     # End of the developerInfo function
